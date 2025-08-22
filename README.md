@@ -41,7 +41,7 @@
 
 --- 
 
-![Snake animation](https://github.com/Kathuskan/Kathuskan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Kathuskan/Kathuskan/output/snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kathuskan&style=flat-square&color=blue)  
 
