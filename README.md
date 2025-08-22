@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kathuskan Thavarajah  
 
-<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" />
+<img align="right" alt="AI Coding" width="300" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 🎓 **Data Science Undergraduate** at [Sabaragamuwa University of Sri Lanka (SUSL)](https://www.sab.ac.lk)  
 💻 **Developer & Graphic Designer** | Passionate about **AI, Machine Learning, and Data-Driven Solutions**  
