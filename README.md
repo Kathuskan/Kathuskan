@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kathuskan Thavarajah  
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" />
 
 🎓 **Data Science Undergraduate** at [Sabaragamuwa University of Sri Lanka (SUSL)](https://www.sab.ac.lk)  
 💻 **Developer & Graphic Designer** | Passionate about **AI, Machine Learning, and Data-Driven Solutions**  
@@ -44,7 +44,7 @@
 ## 📫 Connect with Me  
 - 📧 Email: [kathus2003@gmail.com](mailto:kathus2003@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/kathuskan-thavarajah](https://www.linkedin.com/in/kathuskan-thavarajah)  
-- 🌍 Portfolio Website: 
+- 🌍 Portfolio Website: [Portfolio](https://kathuskan.github.io/Portfolio/) 
 
 ---
 
