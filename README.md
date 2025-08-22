@@ -39,18 +39,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathuskan&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
---- 
-
-![Snake animation](https://raw.githubusercontent.com/Kathuskan/Kathuskan/output/snake.svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kathuskan&style=flat-square&color=blue)  
-
 ---
 
 ## 📫 Connect with Me  
 - 📧 Email: [kathus2003@gmail.com](mailto:kathus2003@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/kathuskan-thavarajah](https://www.linkedin.com/in/kathuskan-thavarajah)  
-- 🌍 Portfolio Website: *Coming Soon*  
+- 🌍 Portfolio Website: 
 
 ---
 
