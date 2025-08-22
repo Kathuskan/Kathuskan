@@ -6,7 +6,6 @@
 💻 **Developer & Graphic Designer** | Passionate about **AI, Machine Learning, and Data-Driven Solutions**  
 🎨 Skilled in **Adobe Photoshop & Illustrator**, blending creativity with technology  
 
----
 
 ## 🚀 About Me  
 - 🔍 Exploring **Data Science, AI, and Software Development**  
