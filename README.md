@@ -39,11 +39,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathuskan&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
+--- 
 
-## ✨ Fun Dynamic Visuals  
-
-![Snake animation](https://github.com/Kathuskan-Thavarajah/Kathuskan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kathuskan/Kathuskan/blob/output/github-contribution-grid-snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kathuskan&style=flat-square&color=blue)  
 
