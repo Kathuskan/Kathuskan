@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Kathuskan Thavarajah  
 
 <img align="right" alt="Data Flow" width="300" src="https://i.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
+
 🎓 **Data Science Undergraduate** at [Sabaragamuwa University of Sri Lanka (SUSL)](https://www.sab.ac.lk)  
 💻 **Developer & Graphic Designer** | Passionate about **AI, Machine Learning, and Data-Driven Solutions**  
 🎨 Skilled in **Adobe Photoshop & Illustrator**, blending creativity with technology  
