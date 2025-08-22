@@ -22,26 +22,11 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)   
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
----
-
-## 📌 Featured Projects  
-🔹 **Pocket Manager** – Personal Finance Tracker (React + Flask + MySQL)  
-🔹 **FreelanceHub** – A freelance marketplace web app (Flask-based)  
-🔹 **Data Science Mini-Projects** – Dataset exploration, analysis & visualization  
-
-👉 [![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-red)](https://www.youtube.com/) *(Link your YouTube demo here!)*  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -58,9 +43,9 @@
 
 ## ✨ Fun Dynamic Visuals  
 
-![Snake animation](https://github.com/Kathuskan-Thavarajah/Kathuskan-Thavarajah/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kathuskan-Thavarajah/Kathuskan/blob/output/github-contribution-grid-snake.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kathuskan-Thavarajah&style=flat-square&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=Kathuskan&style=flat-square&color=blue)  
 
 ---
 
