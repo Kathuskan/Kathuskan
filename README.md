@@ -56,6 +56,7 @@
 - 📧 Email: [TKathuskan@gmail.com](mailto:TKathuskan@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/kathuskan-thavarajah](https://www.linkedin.com/in/kathuskan-thavarajah)
 - 🌍 Portfolio Website: [Portfolio](https://kathuskan.github.io/Portfolio/)
+- 📚 CV Document: [CV](https://drive.google.com/file/d/1cJMBS99usfo78sBJFaApOu6P1K31iLtm/view?usp=share_link)
 - 🤝 Open to **Data Science Internship Opportunities**
 
 ---
