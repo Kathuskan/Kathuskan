@@ -52,19 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kathuskan&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kathuskan&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathuskan&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 - 📧 Email: [TKathuskan@gmail.com](mailto:TKathuskan@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/kathuskan-thavarajah](https://www.linkedin.com/in/kathuskan-thavarajah)
